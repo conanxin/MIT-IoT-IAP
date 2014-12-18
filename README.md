@@ -64,7 +64,7 @@
 
 **Dart学习视频**
 
-1.[Intro to Dart 介绍Dart](https://www.youtube.com/watch?v=5KlnlCq2M5Q) (4 minutes)
+1.[Intro to Dart](https://www.youtube.com/watch?v=5KlnlCq2M5Q) (4 minutes)
 
 2.[Structured Web Programming: An Introduction to Dart](https://www.youtube.com/watch?v=vT1KmTQ-1Os) (37:21 minutes)
 
@@ -72,7 +72,7 @@
 
 **Dart阅读材料**
 
-1.[Quick Start Intro to Dart 快速介绍Dart](https://www.dartlang.org/docs/dart-up-and-running/ch01.html)
+1.[Quick Start Intro to Dart](https://www.dartlang.org/docs/dart-up-and-running/ch01.html)
 
 2.[A Tour of the Dart Language](https://www.dartlang.org/docs/dart-up-and-running/ch02.html)
 
@@ -94,7 +94,7 @@
 <a name="4"></a>
 ###系统设置
 
-1.Install [Dart](https://www.dartlang.org/) from https://www.dartlang.org/ (requires Java installed on your system)
+1.Install Dart from https://www.dartlang.org/ (requires Java installed on your system)
 
 2.Install FileZilla from https://filezilla-project.org/ (we'll use this for transferring files)
 
